@@ -4,7 +4,7 @@
   ```
   docker build -t nominatim .
   ```
-2. Copy <your_country>.osm.pbf to a local directory (i.e. /home/me/nominatimdata)
+2. Copy <your_country>.osm.pbf to a local directory (i.e. /home/me/nominatimdata). Download it at http://download.geofabrik.de/south-america-latest.osm.pbf
 
 3. Initialize Nominatim Database
   ```
